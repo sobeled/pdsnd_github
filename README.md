@@ -10,7 +10,10 @@ Udacity Python Project - Bikeshare
 This project provides a user interface to explore bikeshare data. The user can filter by city, month and day and get descriptive statistics.
 
 ### Files used
-Include the files used
+bikeshare_sobel_r1.py
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
