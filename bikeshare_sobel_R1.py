@@ -1,3 +1,5 @@
+# This project provides a user interface to explore bikeshare data. The user can filter by city, month and day and get descriptive statistics.
+
 import time
 import pandas as pd
 import numpy as np
@@ -210,7 +212,7 @@ def main():
                 data_count += 5
             else:
                 break
-        # Asks if the user would like to restart the program            
+        # Asks if the user would like to restart the program
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
