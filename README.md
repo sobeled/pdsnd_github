@@ -7,7 +7,7 @@ Sept 23, 2022
 Udacity Python Project - Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+This project provides a user interface to explore bikeshare data. The user can filter by city, month and day and get descriptive statistics.
 
 ### Files used
 Include the files used
