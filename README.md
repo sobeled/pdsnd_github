@@ -16,4 +16,4 @@ washington.csv
 new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thank you to the Udacity instructors, mentors and knowledge base for helping me learn to code in Python and use Git/Github.
